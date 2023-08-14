@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">  
- <a href="##-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
@@ -38,3 +38,9 @@ O projeto foi desenvolvido durante uma aula sobre o framework Angular na [Alura]
   - [x] Deve haver um campo de busca que permita a busca de um registro por um trecho do texto ou pelo nome do autor.
 - [x] Deve ser possível listar apenas os registros marcados como favoritos.
 
+## 🎨 Layout
+O layout da aplicação está disponível no figma:<br />
+![Badge de acesso ao layout no figma](https://img.shields.io/badge/Acessar_layout-Figma-Green?link=https%3A%2F%2Fwww.figma.com%2Ffile%2FgnU7MbCD1ZGLNUPxqQCBZq%2FMemoteca---Angular%253A-Come%25C3%25A7ando-com-o-Framework%3Ftype%3Ddesign%26node-id%3D148%253A26%26mode%3Ddesign%26t%3DQIjgk1PVB1uphaO0-1)
+
+
+![](src/assets/imagens/memoteca.png)
