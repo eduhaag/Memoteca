@@ -15,7 +15,7 @@
 
 <div align="center">  
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -30,7 +30,7 @@ O Memoteca consiste em um mural simulando um *pegboard*, que permite salvar idé
 
 O projeto foi desenvolvido durante uma aula sobre o framework Angular na [Alura](https://alura.com.br)
 
-## Funcionalidades
+## 🎨 Funcionalidades
 - [x] O usuário deve poder cadastrar uma nova citação contento (opcionalmente) além do conteúdo, o autor e uma estilização (cor);
   - [x] Deve ser possível editar e excluir um registro;
   - [x] Deve ser possível marcar como favorito.
