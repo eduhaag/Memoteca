@@ -44,3 +44,50 @@ O layout da aplicação está disponível no figma:<br />
 
 
 ![](src/assets/imagens/memoteca.png)
+
+## 🚀 Como executar o projeto
+### Pré-requisitos
+Para executar o projeto, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+### Clonando o repositório
+```bash
+# Clone o repositório
+$ git clone git@github.com:eduhaag/Memoteca.git
+
+# Acesse a página do projeto
+$ cd Memoteca
+```
+
+### Executando o front-end
+```bash
+# Instale as dependências
+$ npm install
+
+# Rode o servidor de desenvolvimento
+$ npm run start
+
+# O servidor front-end será inicializado na porta padrão do Angular (4200). Acesso http://localhost:4200. 
+# Caso a porta já esteja sendo usada, o Angular irá informar a porta para acessar a aplicação.
+```
+
+### Executando o back-end
+```bash
+# Acesse a pasta do back-end
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Rode o servidor
+$ npm run start
+
+# O servidor será inicializado na porta 3000 - acesse http://localhost:3000
+```
+
+## 🛠️ Tecnologias
+**Front-end**
+- **[Angular](https://angular.io/)** - E suar ferramentas e bibliotecas internas;
+- **[Typescript](https://www.typescriptlang.org/)**.
+
+**Back-end**
+- **[Json-server](https://github.com/typicode/json-server)**
