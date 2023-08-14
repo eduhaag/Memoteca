@@ -19,9 +19,8 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-como-contribuir-para-o-projeto">Como contribuir</a> • 
+ <a href="#-licença">Licença</a>
   
 </div>
 
@@ -88,6 +87,22 @@ $ npm run start
 **Front-end**
 - **[Angular](https://angular.io/)** - E suar ferramentas e bibliotecas internas;
 - **[Typescript](https://www.typescriptlang.org/)**.
+> Veja o arquivo [package.json](https://github.com/eduhaag/Memoteca/package.json)
 
 **Back-end**
 - **[Json-server](https://github.com/typicode/json-server)**
+> Veja o arquivo [package.json](https://github.com/eduhaag/Memoteca/backend/package.json)
+
+**Utilitários**
+- Protótipo: **[Figma](https://www.figma.com/file/gnU7MbCD1ZGLNUPxqQCBZq/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148%3A26&mode=design&t=MN3YxHfQAxS4HQkL-1)**;
+- Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+- Fontes: **[Inter](https://fonts.google.com/specimen/Inter), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)**
+
+## 💪 Como contribuir para o projeto
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+## 📝 Licença
+Este projeto esta sobe a licença MIT.
