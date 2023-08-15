@@ -5,15 +5,15 @@
 </div>
 <div align="center">
 
-![Badge da versão do Angular](https://img.shields.io/badge/Angular-14.0.0-red?logo=Angular&link=https%3A%2F%2Fangular.io%2Fguide%2Fupdate-to-version-14)
-![Badge Versão do NPM](https://img.shields.io/badge/NPM-9.8.1-dark_green)
+![Badge da versão do Angular](https://img.shields.io/badge/Angular-v14.0.0-red?logo=Angular&link=https%3A%2F%2Fangular.io%2Fguide%2Fupdate-to-version-14)
+![Badge Versão do NPM](https://img.shields.io/badge/NPM-v9.8.1-dark_green)
 ![Badge de tamanho do repositório](https://img.shields.io/github/repo-size/eduhaag/Memoteca)
 ![Badge de Last Commit](https://img.shields.io/github/last-commit/eduhaag/memoteca?color=orange)
+![Badge de Prs](https://img.shields.io/badge/PRs-Welcome-yellow)
 ![](https://img.shields.io/badge/licence-MIT-green)
   
-</div>
-
-<div align="center">  
+![Badge de status do projeto](https://img.shields.io/badge/PROJETO%20CONCLU%C3%8DDO-darkGreen)
+  
  <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
@@ -29,7 +29,7 @@ O Memoteca consiste em um mural simulando um *pegboard*, que permite salvar idé
 
 O projeto foi desenvolvido durante uma aula sobre o framework Angular na [Alura](https://alura.com.br)
 
-## 🎨 Funcionalidades
+## 🧰 Funcionalidades
 - [x] O usuário deve poder cadastrar uma nova citação contento (opcionalmente) além do conteúdo, o autor e uma estilização (cor);
   - [x] Deve ser possível editar e excluir um registro;
   - [x] Deve ser possível marcar como favorito.
@@ -85,7 +85,7 @@ $ npm run start
 
 ## 🛠️ Tecnologias
 **Front-end**
-- **[Angular](https://angular.io/)** - E suar ferramentas e bibliotecas internas;
+- **[Angular](https://angular.io/)** - e suas ferramentas e bibliotecas internas;
 - **[Typescript](https://www.typescriptlang.org/)**.
 > Veja o arquivo [package.json](https://github.com/eduhaag/Memoteca/package.json)
 
@@ -105,4 +105,4 @@ $ npm run start
 4. Envie as suas alterações: `git push origin my-feature`
 
 ## 📝 Licença
-Este projeto esta sobe a licença MIT.
+Este projeto está sobe a licença MIT.
