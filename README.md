@@ -87,11 +87,11 @@ $ npm run start
 **Front-end**
 - **[Angular](https://angular.io/)** - e suas ferramentas e bibliotecas internas;
 - **[Typescript](https://www.typescriptlang.org/)**.
-> Veja o arquivo [package.json](https://github.com/eduhaag/Memoteca/package.json)
+> Veja o arquivo [package.json](package.json)
 
 **Back-end**
 - **[Json-server](https://github.com/typicode/json-server)**
-> Veja o arquivo [package.json](https://github.com/eduhaag/Memoteca/backend/package.json)
+> Veja o arquivo [package.json](backend/package.json)
 
 **Utilitários**
 - Protótipo: **[Figma](https://www.figma.com/file/gnU7MbCD1ZGLNUPxqQCBZq/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148%3A26&mode=design&t=MN3YxHfQAxS4HQkL-1)**;
